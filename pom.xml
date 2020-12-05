@@ -6,11 +6,10 @@
     <version>1.0-RAMA</version>
     <packaging>pom</packaging>
     <name>Project Build</name>
-<!--
+
     <modules>
         <module>project</module>
     </modules>
--->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
